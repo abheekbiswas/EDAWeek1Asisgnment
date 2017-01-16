@@ -112,3 +112,5 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+Currently there are 8 + 1 files : 4 R scripts for plotting, 4 png plots and 1 R script for downloading and setting up the data.
